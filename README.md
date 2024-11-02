@@ -43,20 +43,21 @@ Ensure you have the following prerequisites before proceeding with the setup:
    - The default credentials are:
      - **Username**: `admin`
      - **Password**: `pfsense`
-   - **Important**: Change the default password after logging in.
 
     ![image](https://github.com/user-attachments/assets/fcc22031-2808-4be9-85e4-8a625563eafb)
+
+    - **Important**: Change the default password after logging in.
+  
+
+     ![pic5](https://github.com/user-attachments/assets/915e9ea9-f727-4d50-9540-8ffd272b4f35)
 
 
 5. **Complete the Initial Setup Wizard**  
    - Upon first login, pfSense may guide you through an initial setup wizard.
    - Follow the prompts to configure basic settings such as timezone, hostname, and LAN/WAN interface settings.
 
-   ![image](https://github.com/user-attachments/assets/aab6a5c9-081e-4770-893f-86c4241565e5)
+    ![pic6](https://github.com/user-attachments/assets/5ea81559-a9c0-4577-8550-0e95957b0c67)
 
----
-
-## Troubleshooting
 
 - **Cannot Access UI**: 
   - Verify the host device’s IP address is in the same subnet as the pfSense LAN interface.
