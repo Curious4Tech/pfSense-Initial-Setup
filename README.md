@@ -45,19 +45,14 @@ Ensure you have the following prerequisites before proceeding with the setup:
      - **Password**: `pfsense`
    - **Important**: Change the default password after logging in.
 
+    ![image](https://github.com/user-attachments/assets/fcc22031-2808-4be9-85e4-8a625563eafb)
+
+
 5. **Complete the Initial Setup Wizard**  
    - Upon first login, pfSense may guide you through an initial setup wizard.
    - Follow the prompts to configure basic settings such as timezone, hostname, and LAN/WAN interface settings.
 
----
-
-## Additional Configuration (Optional)
-
-After completing the initial setup, consider configuring additional pfSense features, such as:
-
-- **Firewall Rules**: Set rules to allow or block traffic as per your network requirements.
-- **DHCP Server**: Configure DHCP for dynamic IP allocation to devices on your LAN.
-- **DNS and VPN**: Set up DNS or VPN services if needed.
+   ![image](https://github.com/user-attachments/assets/aab6a5c9-081e-4770-893f-86c4241565e5)
 
 ---
 
