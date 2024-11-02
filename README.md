@@ -78,6 +78,4 @@ Ensure you have the following prerequisites before proceeding with the setup:
 
 You've successfully installed and configured your pfSense firewall! Setting up network security and management tools is a crucial step in securing your infrastructure, and you've taken a big step forward.
 
-From here, you can explore the powerful features that pfSense offers, such as firewall rules, VPNs, traffic shaping, and much more. Remember to keep learning, experimenting, and optimizing your setup!
-
 Welcome to the world of pfSense – your network just got a whole lot smarter! 🛡️✨
