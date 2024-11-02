@@ -58,7 +58,9 @@ Ensure you have the following prerequisites before proceeding with the setup:
 
     ![pic6](https://github.com/user-attachments/assets/5ea81559-a9c0-4577-8550-0e95957b0c67)
 
+---
 
+## Troubleshooting
 - **Cannot Access UI**: 
   - Verify the host device’s IP address is in the same subnet as the pfSense LAN interface.
   - Check network cables or VM network settings if using a virtualized setup.
