@@ -55,8 +55,15 @@ Ensure you have the following prerequisites before proceeding with the setup:
 5. **Complete the Initial Setup Wizard**  
    - Upon first login, pfSense may guide you through an initial setup wizard.
    - Follow the prompts to configure basic settings such as timezone, hostname, and LAN/WAN interface settings.
+  
 
-    ![pic6](https://github.com/user-attachments/assets/5ea81559-a9c0-4577-8550-0e95957b0c67)
+       ![pic6](https://github.com/user-attachments/assets/5ea81559-a9c0-4577-8550-0e95957b0c67)
+     
+    
+   - After clicking **Finish**, if everything is configured correctly, the dashboard should look like the screenshot below
+     
+
+      ![pic7](https://github.com/user-attachments/assets/f784e81b-0df3-433c-880d-4edf697b35a0)
 
 
 ## Troubleshooting
